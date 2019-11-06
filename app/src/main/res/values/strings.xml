@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Encryption App</string>
+    <string name="info">LAB INFORMATION</string>
+    <string name="f101">Name</string>
+    <string name="f102">Address</string>
+    <string name="f103">Cell No</string>
+    <string name="f104">City</string>
+    <string name="f105">Are you Married</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="f106">Check all disease that encountered</string>
+    <string name="f106a">Fever</string>
+    <string name="f106b">Headache</string>
+    <string name="f106c">Joint Pain</string>
+    <string name="f106d">Other</string>
+    <string name="f106e">None</string>
+    <string name="submit">Submit Form</string>
+</resources>
